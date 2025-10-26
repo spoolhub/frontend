@@ -1,0 +1,45 @@
+{
+  "locale": {
+    "dir": "ltr",
+    "en-US": "English",
+    "vi-VN": "Tiếng Việt"
+  },
+  "site": {
+    "name": "Maker Station"
+  },
+  "error": {
+    "404": {
+      "title": "Not found!",
+      "message": "The page you are looking for does not exist."
+    }
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Home",
+        "description": "Home page"
+      }
+    },
+    "3dModels": {
+      "link": "3D Models",
+      "meta": {
+        "title": "3D Models",
+        "description": "3D models libraries"
+      }
+    },
+    "laserModels": {
+      "link": "Laser Models",
+      "meta": {
+        "title": "Laser Models",
+        "description": "Laser models libraries"
+      }
+    },
+     "articles": {
+      "link": "Articles",
+      "meta": {
+        "title": "Articles",
+        "description": "Articles"
+      }
+    }
+  }
+}
